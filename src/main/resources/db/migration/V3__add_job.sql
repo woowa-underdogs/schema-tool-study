@@ -1,0 +1,1 @@
+ALTER table user ADD COLUMN job varchar(30);

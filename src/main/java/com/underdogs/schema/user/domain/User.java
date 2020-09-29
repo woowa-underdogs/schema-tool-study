@@ -26,4 +26,6 @@ public class User {
     private Integer age;
 
     private String nickName;
+
+    private String job;
 }
